@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Variaveis;
+namespace Fundamentals.Variaveis;
 
 class Variaveis
 {

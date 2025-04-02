@@ -1,4 +1,4 @@
-﻿namespace HelloWorld.Textos;
+﻿namespace Fundamentals.Textos;
 
 class Textos
 {

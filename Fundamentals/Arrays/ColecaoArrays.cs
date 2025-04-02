@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Arrays;
+namespace Fundamentals.Arrays;
 
 class ColecaoArrays
 {

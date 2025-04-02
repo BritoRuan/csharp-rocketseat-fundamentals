@@ -1,5 +1,5 @@
 ﻿
-using HelloWorld.Automoveis;
+using Fundamentals.Automoveis;
 
 namespace HelloWorld.Objetos;
 

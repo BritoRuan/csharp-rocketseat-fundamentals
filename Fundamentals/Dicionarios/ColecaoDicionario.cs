@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Dicionarios;
+namespace Fundamentals.Dicionarios;
 
 class ColecaoDicionario
 {

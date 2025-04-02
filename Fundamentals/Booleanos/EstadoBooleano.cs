@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Booleanos;
+namespace Fundamentals.Booleanos;
 
 class EstadoBooleano
 {

@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Listas;
+namespace Fundamentals.Listas;
 
 class ColecaoListas
 {

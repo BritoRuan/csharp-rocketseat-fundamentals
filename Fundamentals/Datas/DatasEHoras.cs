@@ -1,7 +1,7 @@
 ﻿
 using System.Globalization;
 
-namespace HelloWorld.Datas;
+namespace Fundamentals.Datas;
 
 class DatasEHoras
 {

@@ -1,4 +1,4 @@
-﻿namespace HelloWorld.Comidas;
+﻿namespace Fundamentals.Comidas;
 class Biscoito
 {
     public void Temperatura()

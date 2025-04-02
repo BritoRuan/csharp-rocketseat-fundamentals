@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.Enums;
+namespace Fundamentals.Enums;
 
 class Monstro
 {

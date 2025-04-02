@@ -1,5 +1,5 @@
 ﻿
-namespace HelloWorld.HashSet;
+namespace Fundamentals.HashSet;
 
 class ColecaoHashSet
 {

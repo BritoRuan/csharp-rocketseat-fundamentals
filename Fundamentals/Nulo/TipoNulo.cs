@@ -1,5 +1,4 @@
-﻿
-namespace HelloWorld.Nulo;
+﻿namespace Fundamentals.Nulo;
 
 class TipoNulo
 {

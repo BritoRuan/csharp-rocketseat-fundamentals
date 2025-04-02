@@ -1,7 +1,7 @@
 ﻿
 using System.Text;
 
-namespace HelloWorld.Textos;
+namespace Fundamentals.Textos;
 
 class OperacoesComTextos
 {

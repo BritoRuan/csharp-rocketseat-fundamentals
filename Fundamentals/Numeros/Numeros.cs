@@ -1,5 +1,4 @@
-﻿
-namespace HelloWorld.Numeros;
+﻿namespace Fundamentals.Numeros;
 
 class Numeros
 {
