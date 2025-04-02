@@ -1,4 +1,4 @@
-﻿using Fundamentals.Funcoes;
+﻿using Fundamentals.Classes;
 
 namespace Fundamentals;
 
@@ -6,11 +6,18 @@ class Program
 {
     static void Main()
     {
-      OperacoesMatematicas operacoesMatematicas = new OperacoesMatematicas();
+        //carro.Cor = Enums.Cor.Azul;
+        //carro.Comprado = new DateOnly(2024, 12, 25);
 
-      (int resultado, string nome) = operacoesMatematicas.Adicionar(10, 20);
+        //var carro = new Carro
+        //{
+        //    Cor = Enums.Cor.Azul,
+        //    Comprado = new DateOnly(2024, 12, 25),
+        //    Chassi = "451 X7ngSF L2 CT7763",
+        //};
 
-      Console.WriteLine(resultado);
-      Console.WriteLine(nome);
+        Carro meuCarro = new("451 X7ngSF L2 CT7763", new DateOnly(2024, 12, 25) , Enums.Cor.Azul);
+
+        meuCarro.CompradoEm();
     }
 }
