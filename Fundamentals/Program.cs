@@ -1,20 +1,16 @@
-﻿using HelloWorld.Automoveis;
-using HelloWorld.Comidas;
+﻿using Fundamentals.Funcoes;
 
-namespace HelloWorld;
+namespace Fundamentals;
 
 class Program 
 {
     static void Main()
     {
-        Carro meuCarro = new Carro();
+      OperacoesMatematicas operacoesMatematicas = new OperacoesMatematicas();
 
-        meuCarro.Ligar();
+      (int resultado, string nome) = operacoesMatematicas.Adicionar(10, 20);
 
-        meuCarro.Desligar();
-
-        Biscoito meuBiscoito = new Biscoito();
-
-        meuBiscoito.Temperatura();
+      Console.WriteLine(resultado);
+      Console.WriteLine(nome);
     }
 }
