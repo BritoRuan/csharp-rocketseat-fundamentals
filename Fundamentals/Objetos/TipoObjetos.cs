@@ -1,13 +1,13 @@
 ﻿
-using Fundamentals.Automoveis;
+using Fundamentals.Classes;
 
-namespace HelloWorld.Objetos;
+namespace Fundamentals.Objetos;
 
 class TipoObjetos
 {
     // Ele não identifica o método "Ligar" pois o tipo do objeto é "object" ao contrario de var que faz isso automaticamente
 
-    object objetoQualquer = new Carro();
+    // object objetoQualquer = new Carro();
 
     // var varQualquer = new Carro();
 
